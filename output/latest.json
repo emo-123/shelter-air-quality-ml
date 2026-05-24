@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-05-16 17:18:23",
+  "aqi_score": 69.51,
+  "prediction": 1,
+  "confidence": 0.825,
+  "alert": {
+    "level": "warning",
+    "message": "Dikkat! Hava kalitesi düşüyor.",
+    "action": "Havalandırma sistemini kontrol edin."
+  },
+  "giris": {
+    "zaman1_25sn": {
+      "co2": 800.0,
+      "temp": 23.0,
+      "humidity": 58.0,
+      "voc": 220.0
+    },
+    "zaman2_20sn": {
+      "co2": 1000.0,
+      "temp": 23.0,
+      "humidity": 60.0,
+      "voc": 270.0
+    },
+    "zaman3_15sn": {
+      "co2": 1200.0,
+      "temp": 24.0,
+      "humidity": 62.0,
+      "voc": 320.0
+    },
+    "zaman4_10sn": {
+      "co2": 1400.0,
+      "temp": 24.0,
+      "humidity": 64.0,
+      "voc": 370.0
+    },
+    "zaman5_su_an": {
+      "co2": 1600.0,
+      "temp": 25.0,
+      "humidity": 66.0,
+      "voc": 420.0
+    }
+  }
+}
