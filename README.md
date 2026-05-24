@@ -28,11 +28,5 @@ Kaggle: https://www.kaggle.com/datasets/emre26/shelter-air-quality-sensor-data
 - Random Forest Classifier
 - FastAPI
 
-## Proje Yapısı
 
-src/
-├── data_loader.py   # Veri yükleme
-├── preprocessor.py  # Ön işleme ve AQI hesaplama
-├── trainer.py       # Model eğitimi
-├── predictor.py     # Tahmin fonksiyonu
-└── main.py          # Ana çalıştırma
+
